@@ -1,3 +1,0 @@
-git comand 
-git main
-git branch
